@@ -86,6 +86,6 @@ pip install pandas numpy scipy matplotlib seaborn selenium webdriver-manager bea
 
 * **Sanity‐check raw data**: inspect the first few rows of each `Raw*.csv` against the live web interface.
 * **Covariance & eigenvalues**: compare your computed covariance matrices and eigenvalues against the provided examples (e.g. `AdmetLab2.0/A/covariance_matrix.csv`).
-* **Weighted‐score trends**: reproduce Figure 9 by plotting year‐of‐approval on the *x*-axis and mean weighted score on the *y*-axis; verify negative correlations and p-values match the paper.
+* **Weighted‐score trends**: reproduce manuscript Figure 9 by plotting year‐of‐approval on the *x*-axis and mean weighted score on the *y*-axis; verify negative correlations and p-values match the paper.
 
 
