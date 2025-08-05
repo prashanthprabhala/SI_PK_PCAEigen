@@ -1,7 +1,3 @@
-Here’s a concise, technical README summary you can drop into your repository to orient new users and verify what each part of the pipeline does:
-
----
-
 ## ASDRP PCA‐Eigen Repository
 
 This project automates the end-to-end extraction, processing, and weighted-score analysis of pharmacokinetic predictions for FDA-approved small-molecule drugs, using three web-based ADMET platforms (SwissADME, XUNDrug, ADMETLab 2.0). It computes both eigenvalue- and IQR-based weights on standardized PK features to rank compounds and track temporal trends.
