@@ -1,6 +1,6 @@
 ## ASDRP PCA‐Eigen Repository
 
-This is the repository containing all the code and data associated with the work "Determining Key Pharmacokinetic Properties of FDA-Approved Therapeutic Drugs Using Machine Learning and Weighted Score Analysis". 
+This is the repository containing the code associated with the work "Determining Key Pharmacokinetic Properties of FDA-Approved Therapeutic Drugs Using Machine Learning and Weighted Score Analysis". 
 
 This project automates the end-to-end extraction, processing, and weighted-score analysis of pharmacokinetic predictions for FDA-approved small-molecule drugs, using three web-based ADMET platforms (SwissADME, XUNDrug, ADMETLab 2.0). It computes both eigenvalue- and IQR-based weights on standardized PK features to rank compounds and track temporal trends.
 
