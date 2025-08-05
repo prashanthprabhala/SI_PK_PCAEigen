@@ -7,9 +7,9 @@ This project automates the end-to-end extraction, processing, and weighted-score
 ### Key Features
 
 * **Automated Data Retrieval**
-  – **SwissADME/**: contains raw SMILES (`activeIng.csv`) and scripts to generate known-ADMET outputs.
-  – **XUNdrug/obtainRawData.py**: headless Selenium script that pulls predicted ADMET features into `raw_smiles.csv`.
-  – **AdmetLab2.0/**: `getraw.py` and `getRawOptimization.py` use Selenium + BeautifulSoup to scrape ADMETLab 2.0 predictions from `rawsmiles.csv`.
+  * – **SwissADME/**: contains raw SMILES (`activeIng.csv`) and scripts to generate known-ADMET outputs.
+  * – **XUNdrug/obtainRawData.py**: headless Selenium script that pulls predicted ADMET features into `raw_smiles.csv`.
+  * – **AdmetLab2.0/**: `getraw.py` and `getRawOptimization.py` use Selenium + BeautifulSoup to scrape ADMETLab 2.0 predictions from `rawsmiles.csv`.
 
 * **Data Processing & PCA**
   Each platform folder is subdivided into analysis stages:
